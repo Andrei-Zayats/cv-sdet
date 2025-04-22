@@ -1,0 +1,28 @@
+site_name: SDET Andrei Zayats
+site_url: https://sdet.forfeit12.keenetic.pro
+theme:
+  name: material
+  language: en
+  font:
+    text: Inter
+  icon:
+    logo: material/home-assistant
+  palette:
+    scheme: default
+    primary: teal
+    accent: teal
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  plugins:
+  - search
+nav:
+  - Profile: index.md
+  - Experience: experience.md
+  - About: about.md
