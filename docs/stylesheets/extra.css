@@ -1,0 +1,29 @@
+/* Делаем иконку и текст в хедере похожими на кнопку */
+.md-header__button.md-source {
+    background-color: #ffffff20; /* Полупрозрачный фон */
+    padding: 5px 15px;
+    border-radius: 4px;
+    margin-left: 10px;
+    transition: background-color 0.3s;
+    border: 1px solid #ffffff40;
+}
+
+/* Эффект при наведении */
+.md-header__button.md-source:hover {
+    background-color: #ffffff40;
+    border-color: #ffffff;
+}
+
+/* Скрываем стандартный текст "Download CV" на мобилках, если мешает, 
+   либо настраиваем его размер */
+.md-source__repository {
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: #fff !important;
+}
+
+/* Увеличиваем саму иконку скачивания */
+.md-source__icon svg {
+    width: 24px;
+    height: 24px;
+}

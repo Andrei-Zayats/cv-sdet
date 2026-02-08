@@ -1,5 +1,12 @@
 site_name: SDET Andrei Zayats
 site_url: https://sdet.forfeit12.keenetic.pro
+
+repo_url: https://sdet.forfeit12.keenetic.pro/SDET_Andrei_Zayats.zip
+repo_name: Download CV
+
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   language: en
@@ -21,7 +28,8 @@ theme:
     - search.suggest
     - search.highlight
   plugins:
-  - search
+    - search
+
 nav:
   - Profile: index.md
   - Experience: experience.md

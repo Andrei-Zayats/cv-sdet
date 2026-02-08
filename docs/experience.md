@@ -1,5 +1,27 @@
 # 💼 Work Experience
 ## **Company: GlobalLogic, Lodz, Poland**  
+(May 2025 – until now)  
+**Role:** Automation Quality Assurance Engineer (AQA)  
+**Project description:** Fin tech, Medical Insurance system  
+**Responsibilities:**  
+- Improve QA and the test approach with the team
+- Improve and support CI/CD process
+- Involvement in requirements, user story and acceptance criteria creation and review
+- Participating in Sprint Planning and driving the quality aspect
+- Test preparation, including, creating and reviewing test cases and the creation of manual
+and automation scripts (API)
+- Test execution and support, including exploratory, manual and automated tests on CI/CD
+- Test documentations create and update
+- Performance tests preparation, running and analysis of results
+- Manual testing
+- Working with other QA Engineers and Engineers 
+
+**Technologies:** C#, Restsharp, .Net Core, Copilot, Jmeter, Groove, Postman, Apidog, Azure DevOps, 
+Azure Cosmos DB, Azure App Service, Azure Service Bus, Azure Pipelines 
+
+---
+
+## **Company: GlobalLogic, Lodz, Poland**  
 (Feb 2023 - Apr 2025) (over 2 years)  
 **Role:** Performance Test Engineer  
 **Project description:** Fin tech, Payment system  

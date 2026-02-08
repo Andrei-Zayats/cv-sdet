@@ -10,7 +10,10 @@
 
 ## 🎯 Desired Roles  
 
-Automation Quality Assurance (AQA) | Software Development Engineer in Test (SDET) | Performance Testing Engineer | Manual Quality Assurance (QA)  
+- Automation Quality Assurance (AQA)
+- Software Development Engineer in Test (SDET)
+- Performance Testing Engineer
+- Manual Quality Assurance (QA)  
 
 ## 💡 **Summary**
 
@@ -22,14 +25,14 @@ Team player with strong communication skills. Familiar with Agile practices and 
 
 **Languages**: JavaScript, C#  
 **Testing Types**: Functional/Non-functional, Automated/Manual, UI, API, Load, Endurance/Soak  
-**Automation Tools**: NUnit, Selenium WebDriver, Mocha, Jest, Chai, Cypress, Postman, Newman  
+**Automation Tools**: NUnit, Selenium WebDriver, Mocha, Jest, Chai, Cypress, Postman, Newman, Apidog, Copilot  
 **Performance Tools**: JMeter, NeoLoad, Web Neoload  
 **CI/CD & DevOps**: Jenkins, TeamCity, GitLab Pipelines, Azure Pipelines  
 **Databases**: PostgreSQL, MS SQL, Oracle DB, Azure Cosmos DB  
 **Cloud & Containers**: Docker, AWS, Azure  
 **Operating Systems**: Linux, Windows  
 
-**Additional skills**: Java, Python, Playwright, InfluxDB, Grafana, Ansible, Proxmox
+**Additional skills (non-enterprise experience)**: Java, Python, Playwright, K6, InfluxDB, Grafana, Ansible, Proxmox, Cloude Code, LM Studio
 
 ## 🌍 **Languages**
 English – B1/B2  
