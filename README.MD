@@ -1,25 +1,26 @@
+# CV website
 
-Run this project in docker:
-```
-docker-compose up
-```
+Personal CV website built with MkDocs Material and published with GitHub Pages.
 
-If you're running Material for MkDocs from within Docker, use:
+## Website
+
+https://andrei-zayats.github.io/cv-sdet/
+
+## Publish
+
+In the repository settings, open **Pages** and set **Build and deployment → Source** to **GitHub Actions**. Push or merge changes to `master` to build and deploy the site. You can also start the workflow manually from the **Actions** tab.
+
+## Preview locally
+
+Install [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/):
+
 ```bash
-docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
-```
-Point your browser to localhost:8000/sdet
-
-When you're finished editing, you can build a static site from your Markdown files with:
-```bash
-docker run --rm -it -v ${PWD}:/docs squidfunk/mkdocs-material build
+python -m pip install -r requirements.txt
+mkdocs serve
 ```
 
-```bash
-docker run -d \
-  --name cv-sdet \
-  -p 8000:8000 \
-  -v $(pwd):/docs \
-  --restart unless-stopped \
-  squidfunk/mkdocs-material
-```
+Open http://127.0.0.1:8000/.
+
+## Repository traffic
+
+GitHub provides repository traffic under **Insights → Traffic**. It shows repository visitors, views, referrers, popular repository content, and full clones for the last 14 days. Traffic data is available to people with push access to the repository; it does not measure visits to the GitHub Pages website itself.

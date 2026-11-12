@@ -6,7 +6,9 @@
 📄 **Job Type**: Employment Contract (UoP)  
 🔗 [LinkedIn](https://www.linkedin.com/in/andrei-zayats-5a9a5b139/)  
 🔗 [GitHub](https://github.com/Andrei-Zayats)  
-🔗 [Website](https://sdet.forfeit12.keenetic.pro)  
+🔗 [Website](https://andrei-zayats.github.io/cv-sdet/)
+
+[📄 Download CV](SDET_Andrei_Zayats.zip){ .md-button .md-button--primary }
 
 ## 🎯 Desired Roles  
 
